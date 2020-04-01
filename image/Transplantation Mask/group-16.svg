@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="540" height="227" viewBox="0 0 540 227">
+    <g fill="none" fill-rule="evenodd">
+        <rect width="540" height="227" fill="#225795" rx="8"/>
+        <g transform="translate(39 36)">
+            <circle cx="16.5" cy="16.5" r="16.5" fill="#FFF"/>
+            <text fill="#225795" font-family="IBMPlexMono-Medium, IBM Plex Mono Medium" font-size="18">
+                <tspan x="11" y="23">1</tspan>
+            </text>
+            <g transform="translate(0 59)">
+                <circle cx="16.5" cy="16.5" r="16.5" fill="#FFF"/>
+                <text fill="#225795" font-family="IBMPlexMono-Medium, IBM Plex Mono Medium" font-size="18">
+                    <tspan x="11" y="23">2</tspan>
+                </text>
+            </g>
+            <g transform="translate(0 118)">
+                <circle cx="16.5" cy="16.5" r="16.5" fill="#FFF"/>
+                <text fill="#225795" font-family="IBMPlexMono-Medium, IBM Plex Mono Medium" font-size="18">
+                    <tspan x="11" y="23">3</tspan>
+                </text>
+            </g>
+            <text fill="#FFF" font-family="IBMPlexMono-Medium, IBM Plex Mono Medium" font-size="18">
+                <tspan x="61" y="22">Human Uber</tspan> <tspan x="169" y="22" font-family="PingFangTC-Medium, PingFang TC" font-weight="400">：</tspan> <tspan x="187" y="22" font-family="PingFangTC-Medium, PingFang TC" font-weight="400" letter-spacing="1">快速探索面具的設計面向</tspan>
+            </text>
+            <text fill="#FFF" font-family="IBMPlexMono-Medium, IBM Plex Mono Medium" font-size="18">
+                <tspan x="61" y="81">Research Prototype</tspan> <tspan x="255.4" y="81" font-family="PingFangTC-Medium, PingFang TC" font-weight="400">：</tspan> <tspan x="273.4" y="81" font-family="PingFangTC-Medium, PingFang TC" font-weight="400" letter-spacing="1">展開面具的可能形式</tspan>
+            </text>
+            <text fill="#FFF" font-family="IBMPlexMono-Medium, IBM Plex Mono Medium" font-size="18">
+                <tspan x="61" y="140">10 Minutes Social</tspan> <tspan x="244.6" y="140" font-family="PingFangTC-Medium, PingFang TC" font-weight="400">：透過探索道具了解獨特經驗</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

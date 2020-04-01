@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="203" height="23" viewBox="0 0 203 23">
+    <g fill="#225795" fill-rule="evenodd">
+        <path fill-rule="nonzero" d="M190.869 3.388l.871.49 12 6.75 1.55.872-1.55.872-12 6.75-.871.49-.98-1.743.87-.49 8.672-4.879H103.5v-2h95.934l-8.674-4.878-.872-.49.98-1.744z"/>
+        <text font-family="IBMPlexMono-Bold, IBM Plex Mono" font-size="18" font-weight="bold">
+            <tspan x="0" y="18">NEXT WORK</tspan>
+        </text>
+    </g>
+</svg>

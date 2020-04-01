@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="702" height="192" viewBox="0 0 702 192">
+    <g fill="none" fill-rule="evenodd">
+        <path fill="#225795" d="M0 0H125V29H0z" transform="translate(1 1)"/>
+        <text fill="#FFF" font-family="SFCompactDisplay-Medium, SF Compact Display" font-size="14" font-weight="400" transform="translate(1 1)">
+            <tspan x="32" y="20">Surrogate</tspan>
+        </text>
+        <path stroke="#225795" d="M0 0H700V190H0z" transform="translate(1 1)"/>
+        <g>
+            <text fill="#225795" font-family="SFCompactDisplay-Medium, SF Compact Display" font-size="14" font-weight="400" transform="translate(1 1) translate(35 44)">
+                <tspan x="41" y="21">priors</tspan>
+            </text>
+            <text fill="#225795" font-family="SFCompactDisplay-Medium, SF Compact Display" font-size="14" font-weight="400" transform="translate(1 1) translate(35 44)">
+                <tspan x="0" y="74">sensor input</tspan>
+            </text>
+            <text fill="#225795" font-family="SFCompactDisplay-Medium, SF Compact Display" font-size="14" font-weight="400" transform="translate(1 1) translate(35 44)">
+                <tspan x="103" y="43">Surrogate self</tspan>
+            </text>
+            <text fill="#225795" font-family="SFCompactDisplay-Medium, SF Compact Display" font-size="14" font-weight="400" transform="translate(1 1) translate(35 44)">
+                <tspan x="244.128" y="13">raw</tspan> <tspan x="219.304" y="29">body image</tspan>
+            </text>
+            <text fill="#225795" font-family="SFCompactDisplay-Medium, SF Compact Display" font-size="14" font-weight="400" transform="translate(1 1) translate(35 44)">
+                <tspan x="244.128" y="50">raw</tspan> <tspan x="214.037" y="66">body schema</tspan>
+            </text>
+            <text fill="#225795" font-family="SFCompactDisplay-Medium, SF Compact Display" font-size="14" font-weight="400" transform="translate(1 1) translate(35 44)">
+                <tspan x="216" y="93">voice control</tspan>
+            </text>
+            <text fill="#225795" font-family="SFCompactDisplay-Medium, SF Compact Display" font-size="14" font-weight="400" transform="translate(1 1) translate(35 44)">
+                <tspan x="215" y="126">eyes schema</tspan>
+            </text>
+            <text fill="#225795" font-family="SFCompactDisplay-Medium, SF Compact Display" font-size="14" font-weight="400" transform="translate(1 1) translate(35 44)">
+                <tspan x="340" y="58">reshaping</tspan>
+            </text>
+            <text fill="#225795" font-family="SFCompactDisplay-Medium, SF Compact Display" font-size="14" font-weight="400" transform="translate(1 1) translate(35 44)">
+                <tspan x="454" y="58">body image</tspan>
+            </text>
+            <text fill="#225795" font-family="SFCompactDisplay-Medium, SF Compact Display" font-size="14" font-weight="400" transform="translate(1 1) translate(35 44)">
+                <tspan x="564" y="58">perception</tspan>
+            </text>
+            <text fill="#225795" font-family="SFCompactDisplay-Medium, SF Compact Display" font-size="14" font-weight="400" transform="translate(1 1) translate(35 44)">
+                <tspan x="332" y="126">eyes schema</tspan>
+            </text>
+            <text fill="#225795" font-family="SFCompactDisplay-Medium, SF Compact Display" font-size="14" font-weight="400" transform="translate(1 1) translate(35 44)">
+                <tspan x="449" y="126">body schema</tspan>
+            </text>
+            <text fill="#225795" font-family="SFCompactDisplay-Medium, SF Compact Display" font-size="14" font-weight="400" transform="translate(1 1) translate(35 44)">
+                <tspan x="564" y="126">action</tspan>
+            </text>
+            <text fill="#225795" font-family="SFCompactDisplay-Medium, SF Compact Display" font-size="14" font-weight="400" transform="translate(1 1) translate(35 44)">
+                <tspan x="108" y="109">Remote user</tspan>
+            </text>
+            <text fill="#225795" font-family="SFCompactDisplay-Medium, SF Compact Display" font-size="14" font-weight="400" transform="translate(1 1) translate(35 44)">
+                <tspan x="41" y="126">priors</tspan>
+            </text>
+            <path stroke="#225795" stroke-width="2" d="M196 38l13.316-19M196 38l13.316 18M194 105l13.316-19M194 105l13.316 18M98.316 38L85 19m13.316 19L85 56M328 54l-23-41m23 41l-23 39M98.316 105L85 86m13.316 19L85 123" transform="translate(1 1) translate(35 44)"/>
+            <path fill="#225795" fill-rule="nonzero" d="M314.552 112.632l.86.51 11.847 7.014 1.53.906-1.568.837-12.147 6.482-.883.47-.941-1.764.882-.47 8.779-4.686-8.15-.18-11.283-.251-1-.022.044-2 1 .022 11.283.251 8.15.181-8.562-5.07-.86-.51 1.019-1.72zM428.552 112.632l.86.51 11.847 7.014 1.53.906-1.568.837-12.147 6.482-.883.47-.941-1.764.882-.47 8.779-4.686-8.15-.18-11.283-.251-1-.022.044-2 1 .022 11.283.251 8.15.181-8.562-5.07-.86-.51 1.019-1.72zM428.552 44.632l.86.51 11.847 7.014 1.53.906-1.568.837-12.147 6.482-.883.47-.941-1.764.882-.47 8.779-4.686-8.15-.18-11.283-.251-1-.022.044-2 1 .022 11.283.251 8.15.181-8.562-5.07-.86-.51 1.019-1.72zM548.552 112.632l.86.51 11.847 7.014 1.53.906-1.568.837-12.147 6.482-.883.47-.941-1.764.882-.47 8.779-4.686-8.15-.18-11.283-.251-1-.022.044-2 1 .022 11.283.251 8.15.181-8.562-5.07-.86-.51 1.019-1.72zM548.552 44.632l.86.51 11.847 7.014 1.53.906-1.568.837-12.147 6.482-.883.47-.941-1.764.882-.47 8.779-4.686-8.15-.18-11.283-.251-1-.022.044-2 1 .022 11.283.251 8.15.181-8.562-5.07-.86-.51 1.019-1.72z" transform="translate(1 1) translate(35 44)"/>
+        </g>
+    </g>
+</svg>

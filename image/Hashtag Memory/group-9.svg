@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="364" height="360" viewBox="0 0 364 360">
+    <g fill="none" fill-rule="evenodd">
+        <g fill="#225795">
+            <text font-family="PingFangTC-Semibold, PingFang TC" font-size="14" font-weight="500" transform="translate(2 -3)">
+                <tspan x="116" y="15">資料可搜尋程度</tspan>
+            </text>
+            <text font-family="PingFangTC-Semibold, PingFang TC" font-size="16" font-weight="500" transform="translate(2 -3)">
+                <tspan x="60" y="130">筆記很亂</tspan> <tspan x="60" y="152">被動複習</tspan>
+            </text>
+            <text font-family="PingFangTC-Semibold, PingFang TC" font-size="16" font-weight="500" transform="translate(2 -3)">
+                <tspan x="205" y="135">筆記很亂</tspan> <tspan x="205" y="157">主動複習</tspan>
+            </text>
+            <text font-family="PingFangTC-Semibold, PingFang TC" font-size="16" font-weight="500" transform="translate(2 -3)">
+                <tspan x="198.5" y="280">筆記很整齊</tspan> <tspan x="206.5" y="302">主動複習</tspan>
+            </text>
+            <text font-family="PingFangTC-Semibold, PingFang TC" font-size="16" font-weight="500" transform="translate(2 -3)">
+                <tspan x="60" y="280">筆記整齊</tspan> <tspan x="60" y="302">被動複習</tspan>
+            </text>
+            <text font-family="PingFangTC-Semibold, PingFang TC" font-size="16" font-weight="500" transform="translate(2 -3)">
+                <tspan x="346" y="139">查</tspan> <tspan x="346" y="161">看</tspan> <tspan x="346" y="183">積</tspan> <tspan x="346" y="205">極</tspan> <tspan x="346" y="227">程</tspan> <tspan x="346" y="249">度</tspan>
+            </text>
+            <path fill-rule="nonzero" d="M165.5 25.661l1.307 2.324 9 16c.407.722.15 1.637-.572 2.043-.68.382-1.53.178-1.966-.45l-.076-.122L167 34.447v326.832c0 .829-.672 1.5-1.5 1.5-.78 0-1.42-.595-1.493-1.355l-.007-.145V34.447l-6.193 11.01c-.382.679-1.215.946-1.913.636l-.13-.065c-.679-.382-.946-1.215-.636-1.913l.065-.13 9-16 1.307-2.324z" transform="translate(2 -3)"/>
+            <path fill-rule="nonzero" d="M316.606 185.128l.13.065 16 9 2.324 1.307-2.325 1.307-16 9c-.722.407-1.636.15-2.042-.572-.383-.68-.178-1.53.45-1.966l.122-.076L326.273 197H0c-.828 0-1.5-.672-1.5-1.5 0-.78.595-1.42 1.356-1.493L0 194h326.273l-11.008-6.193c-.68-.382-.947-1.215-.637-1.913l.065-.13c.382-.679 1.215-.946 1.913-.636z" transform="translate(2 -3)"/>
+        </g>
+        <path fill="#CAC36B" fill-opacity=".8" d="M0 30H166V362H0z" transform="translate(2 -3)"/>
+        <text fill="#FFF" font-family="PingFangTC-Semibold, PingFang TC" font-size="20" font-weight="500" transform="translate(2 -3)">
+            <tspan x="73" y="161">提</tspan> <tspan x="73" y="189">醒</tspan> <tspan x="73" y="217">複</tspan> <tspan x="73" y="245">習</tspan>
+        </text>
+    </g>
+</svg>

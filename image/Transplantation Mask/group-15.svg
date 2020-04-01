@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="702" height="181" viewBox="0 0 702 181">
+    <g fill="none" fill-rule="evenodd">
+        <path fill="#225795" d="M0 0H125V29H0z" transform="translate(1 1)"/>
+        <text fill="#FFF" font-family="SFCompactDisplay-Medium, SF Compact Display" font-size="14" font-weight="400" transform="translate(1 1)">
+            <tspan x="20" y="20">Remote User</tspan>
+        </text>
+        <path stroke="#225795" d="M0 0H700V179H0z" transform="translate(1 1)"/>
+        <g>
+            <text fill="#225795" font-family="SFCompactDisplay-Medium, SF Compact Display" font-size="14" font-weight="400" transform="translate(1 1) translate(66 42)">
+                <tspan x="110" y="13">priors</tspan>
+            </text>
+            <text fill="#225795" font-family="SFCompactDisplay-Medium, SF Compact Display" font-size="14" font-weight="400" transform="translate(1 1) translate(66 42)">
+                <tspan x=".02" y="22">Surrogate</tspan> <tspan x="8.776" y="38">display</tspan>
+            </text>
+            <text fill="#225795" font-family="SFCompactDisplay-Medium, SF Compact Display" font-size="14" font-weight="400" transform="translate(1 1) translate(66 42)">
+                <tspan x="428.52" y="106">Surrogate</tspan> <tspan x="418.037" y="122">body schema</tspan>
+            </text>
+            <text fill="#225795" font-family="SFCompactDisplay-Medium, SF Compact Display" font-size="14" font-weight="400" transform="translate(1 1) translate(66 42)">
+                <tspan x="9.244" y="87">Viewer</tspan> <tspan x="14.118" y="103">voice</tspan>
+            </text>
+            <text fill="#225795" font-family="SFCompactDisplay-Medium, SF Compact Display" font-size="14" font-weight="400" transform="translate(1 1) translate(66 42)">
+                <tspan x="89" y="60">sensor input</tspan>
+            </text>
+            <text fill="#225795" font-family="SFCompactDisplay-Medium, SF Compact Display" font-size="14" font-weight="400" transform="translate(1 1) translate(66 42)">
+                <tspan x="303" y="112">voice control</tspan>
+            </text>
+            <text fill="#225795" font-family="SFCompactDisplay-Medium, SF Compact Display" font-size="14" font-weight="400" transform="translate(1 1) translate(66 42)">
+                <tspan x="196" y="30">body image</tspan>
+            </text>
+            <text fill="#225795" font-family="SFCompactDisplay-Medium, SF Compact Display" font-size="14" font-weight="400" transform="translate(1 1) translate(66 42)">
+                <tspan x="304" y="30">perception</tspan>
+            </text>
+            <text fill="#225795" font-family="SFCompactDisplay-Medium, SF Compact Display" font-size="14" font-weight="400" transform="translate(1 1) translate(66 42)">
+                <tspan x="360" y="73">eyes schema</tspan>
+            </text>
+            <text fill="#225795" font-family="SFCompactDisplay-Medium, SF Compact Display" font-size="14" font-weight="400" transform="translate(1 1) translate(66 42)">
+                <tspan x="191" y="95">body schema</tspan>
+            </text>
+            <text fill="#225795" font-family="SFCompactDisplay-Medium, SF Compact Display" font-size="14" font-weight="400" transform="translate(1 1) translate(66 42)">
+                <tspan x="529" y="95">action</tspan>
+            </text>
+            <text fill="#225795" font-family="SFCompactDisplay-Medium, SF Compact Display" font-size="14" font-weight="400" transform="translate(1 1) translate(66 42)">
+                <tspan x="110" y="109">priors</tspan>
+            </text>
+            <path stroke="#225795" stroke-width="2" d="M67 25L80.316 6M67 25l13.316 18M67 91l13.316-19M67 91l13.316 18M280 91l13.316-19M280 91l13.316 18M182.316 25L169 6m13.316 19L169 43M182.316 91L169 72m13.316 19L169 109M523.316 91L510 72m13.316 19L510 109" transform="translate(1 1) translate(66 42)"/>
+            <path fill="#225795" fill-rule="nonzero" d="M286.552 16.632l.86.51 11.847 7.014 1.53.906-1.568.837-12.147 6.482-.883.47-.941-1.764.882-.47 8.779-4.686-8.15-.18-11.283-.251-1-.022.044-2 1 .022 11.283.251 8.15.181-8.562-5.07-.86-.51 1.019-1.72zM400.302 100.882l.86.51 11.847 7.014 1.53.906-1.568.837-12.147 6.482-.883.47-.941-1.764.882-.47 8.779-4.686-8.15-.18-11.283-.251-1-.022.044-2 1 .022 11.283.251 8.15.181-8.562-5.07-.86-.51 1.019-1.72z" transform="translate(1 1) translate(66 42)"/>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="58" viewBox="0 0 760 58">
+    <g fill="none" fill-rule="evenodd">
+        <path fill="#225795" d="M0 0H160V58H0zM200 0H360V58H200zM400 0H560V58H400zM600 0H760V58H600z"/>
+        <text fill="#FFF" font-family="PingFangTC-Semibold, PingFang TC" font-size="18" font-weight="500" letter-spacing="3">
+            <tspan x="17" y="38">暖活身心狀態</tspan>
+        </text>
+        <text fill="#FFF" font-family="PingFangTC-Semibold, PingFang TC" font-size="18" font-weight="500" letter-spacing="3">
+            <tspan x="259" y="38">聽覺</tspan>
+        </text>
+        <text fill="#FFF" font-family="PingFangTC-Semibold, PingFang TC" font-size="18" font-weight="500" letter-spacing="3">
+            <tspan x="459" y="38">視覺</tspan>
+        </text>
+        <text fill="#FFF" font-family="PingFangTC-Semibold, PingFang TC" font-size="18" font-weight="500" letter-spacing="3">
+            <tspan x="628" y="38">聽覺＋視覺</tspan>
+        </text>
+        <path fill="#979797" fill-rule="nonzero" d="M180 31.5l9 4.5v-9l-9 4.5z"/>
+        <path fill="#225795" fill-rule="nonzero" d="M183.5 22.5l14 7-14 7-.001-6H163.5c-.552 0-1-.448-1-1 0-.513.386-.936.883-.993l.117-.007h19.999l.001-6zM386.288 22l14 7-14 7v-6h-20c-.552 0-1-.448-1-1 0-.513.386-.936.884-.993l.116-.007h20v-6zM586.288 22l14 7-14 7v-6h-20c-.552 0-1-.448-1-1 0-.513.386-.936.884-.993l.116-.007h20v-6z"/>
+    </g>
+</svg>

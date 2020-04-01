@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="351" height="166" viewBox="0 0 351 166">
+    <g fill="none" fill-rule="evenodd">
+        <text fill="#225795" font-family="PingFangTC-Medium, PingFang TC" font-size="14" font-weight="400" letter-spacing="2.333" transform="translate(-3 1)">
+            <tspan x="144.5" y="43.5">打開對於人的互動想像</tspan>
+        </text>
+        <text fill="#225795" font-family="PingFangTC-Medium, PingFang TC" font-size="14" font-weight="400" letter-spacing="2.333" transform="translate(-3 1)">
+            <tspan x="144.5" y="87.5">透過聲音與環境增加融入程度</tspan>
+        </text>
+        <text fill="#225795" font-family="PingFangTC-Medium, PingFang TC" font-size="14" font-weight="400" letter-spacing="2.333" transform="translate(-3 1)">
+            <tspan x="144.5" y="131.5">透過畫面與動作增加融入程度</tspan>
+        </text>
+        <g>
+            <path fill="#225795" d="M0 0H91V29H0z" transform="translate(-3 1) translate(44.5 23.5)"/>
+            <text fill="#FFF" font-family="SFCompactDisplay-Medium, SF Compact Display" font-size="14" font-weight="400" transform="translate(-3 1) translate(44.5 23.5)">
+                <tspan x="18" y="20">Stranger</tspan>
+            </text>
+        </g>
+        <g>
+            <path fill="#225795" d="M0 0H91V29H0z" transform="translate(-3 1) translate(44.5 67.5)"/>
+            <text fill="#FFF" font-family="SFCompactDisplay-Medium, SF Compact Display" font-size="14" font-weight="400" transform="translate(-3 1) translate(44.5 67.5)">
+                <tspan x="26" y="20">Friend</tspan>
+            </text>
+        </g>
+        <g>
+            <path fill="#225795" d="M0 0H91V29H0z" transform="translate(-3 1) translate(44.5 111.5)"/>
+            <text fill="#FFF" font-family="SFCompactDisplay-Medium, SF Compact Display" font-size="14" font-weight="400" transform="translate(-3 1) translate(44.5 111.5)">
+                <tspan x="25" y="20">Family</tspan>
+            </text>
+        </g>
+        <text fill="#225795" font-family="SFCompactDisplay-Medium, SF Compact Display" font-size="14" font-weight="400" transform="translate(-3 1) rotate(-90 8 82)">
+            <tspan x="-34" y="87">felt rightness</tspan>
+        </text>
+        <path fill="#225795" fill-rule="nonzero" d="M25.5-.5v151h6l-7 14-7-14h6V-.5h2z" transform="translate(-3 1)"/>
+    </g>
+</svg>

@@ -1,0 +1,239 @@
+.wrapper{
+	overflow: hidden;
+}
+/*title*/
+.title-block {
+	padding-top: 20vh;
+	padding-bottom: 20vh;
+}
+.btn-back{
+	display: block;
+	margin-bottom: 20px;
+}
+.projectDetail{
+	margin-bottom: 5px;
+}
+.titleName{
+	font-family: 'Helvetica';
+	font-size: 20px;
+}
+.titleName-block{
+	margin-bottom: 20px;
+}
+.content{
+	margin-top: 250px;
+}
+.img{
+	display: block;
+}
+.imgBox .img{
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	background-size: cover;
+	background-position: center;
+}
+.imgBox .imgBox-inner-title{
+	width: 100%;
+	padding-top: calc(100% * 690 / 1159);
+	position: relative;
+
+}
+.row-title{
+	margin-top: 10px;
+}
+@media (max-width: 768px){
+	.imgBox .imgBox-inner-title{
+		margin-top: 100px;
+	}
+	.content{
+		margin-top: 20px;
+	}
+}
+/*About*/
+.about-detail-2{
+	margin-top: 15px;
+}
+.about-detail-1{
+	margin-top: 50px;
+}
+.imgBox .imgbox-inner-about-img{
+	width: 100%;
+	padding-top: calc(100% * 465 / 491);
+	position: relative;
+
+}
+.about-block{
+	margin-top: 20vh;
+}
+/*web*/
+.web-block{
+	margin-top: 20vh;
+}
+.imgBox .imgBox-inner-web-img{
+	width: 100%;
+	padding-top: calc(100% * 774 / 540);
+	position: relative;
+	margin-top: 50px;
+
+}
+.imgBox .imgBox-inner-layout{
+	width: 100%;
+	padding-top: calc(100% * 1312 / 268);
+	position: relative;
+	margin-top: 50px;
+
+}
+@media (max-width: 768px){
+	.web-block{
+		margin-top: 10vh;
+	}
+}
+.web-detail{
+	margin-top: 300px;
+}
+/*Aesthetics*/
+.aesthetics-block{
+	margin-top: 10vh;
+}
+.imgBox .imgBox-inner-aesthetics-img{
+	width: 100%;
+	padding-top: 100%;
+	position: relative;
+
+}
+.aesthetics-card{
+	margin-top: 30px;
+}
+.aesthetics-name h4{
+	margin-top: 20px;
+	letter-spacing: 5px;
+	font-size: 16px;
+	text-align: center;
+}
+.peopleName h2{
+	letter-spacing: 10px;
+	font-weight: 400;
+	font-family: 'Noto Sans Gurmukhi UI';
+}
+.peopleName h4{
+	letter-spacing: 5px;
+	font-weight: 300;
+	font-family: 'Noto Sans Gurmukhi UI';
+}
+.people-block{
+	margin-top: 20vh;
+}
+.pople-detail-1{
+	margin-top: 40px;
+}
+.imgBox .imgBix-inner-people-img{
+	width: 100%;
+	padding-top: calc(100% * 300 / 400);
+	position: relative;
+
+}
+.people-name-block{
+	margin-top: 30px;
+}
+@media (max-width: 768px){
+	.people-name-block{
+		margin-top: 50px;
+	}
+	.people-name-block{
+		margin-bottom: 10px;
+	}
+}
+/*workshop*/
+.workshop-block{
+	margin-top: 10vh;
+}
+.imgBox .imgBox-inner-workshop{
+	width: 100%;
+	padding-top: calc(100% * 876 / 900);
+	position: relative;
+	margin-top: 20px;
+}
+/*active*/
+.imgBox .imgBox-inner-active-img{
+	width: 100%;
+	padding-top: calc(100% * 505 / 896);
+	position: relative;
+	margin: 20px 0px;
+}
+.activeName h4{
+	letter-spacing: 5px;
+	font-weight: 300;
+	font-family: 'Noto Sans Gurmukhi UI';
+	margin: 30px 0px;
+}
+.active-block{
+	margin-top: 10vh;
+	margin-bottom: 40vh;
+}
+.avtive-video{
+	margin-top: 10vh;
+}
+/*auther*/
+.bg-block{
+	margin-right: 50px;
+	margin-bottom: 100px;
+}
+.auther-text{
+	color: #225795;
+	margin:15px 0px;
+	text-align: right;
+	font-size: smaller;
+}
+.auther-block{
+	margin: 30vh 0px;
+}
+.imgBox .imgBox-inner-btn-next{
+	width: 100%;
+	padding-top: calc(100% * 23 / 203);
+	position: relative;
+}
+.imgBox .imgBox-inner-btn-previous{
+	width: 80%;
+	padding-top: calc(80% * 23 / 268);
+	position: relative;
+}
+@media (max-width: 768px){
+	.imgBox .imgBox-inner-btn-next{
+		width: 80%;
+		padding-top: calc(80% * 23 / 203);
+	}
+}
+/*footer*/
+.bgContainer{
+	background-color: #225795;
+}
+.contact{
+	padding: 30px 0px;
+}
+.contact-list{
+	float: right;
+	margin-right: 30px;
+}
+.copyright{
+	float: left;
+	margin-top: 45px;
+}
+.cpoyright-text{
+	color: #fff;
+}
+.phone{
+	color: #fff;
+}
+.mail{
+	color: #fff;
+}
+.text-contact{
+	font-size: 18px;
+	color: #fff;
+	margin: 5px 0px;
+	font-weight: 900;
+	font-family: 'IBM Plex Mono'
+}

@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="808" height="117" viewBox="0 0 808 117">
+    <defs>
+        <filter id="prefix__a" width="107%" height="116.9%" x="-3.5%" y="-6%" filterUnits="objectBoundingBox">
+            <feOffset dy="2" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="2"/>
+            <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.295236014 0"/>
+        </filter>
+        <filter id="prefix__c" width="107%" height="116.9%" x="-3.5%" y="-6%" filterUnits="objectBoundingBox">
+            <feOffset dy="2" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="2"/>
+            <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.295236014 0"/>
+        </filter>
+        <filter id="prefix__e" width="107%" height="116.9%" x="-3.5%" y="-6%" filterUnits="objectBoundingBox">
+            <feOffset dy="2" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="2"/>
+            <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.295236014 0"/>
+        </filter>
+        <path id="prefix__b" d="M0 0H200V83H0z"/>
+        <path id="prefix__d" d="M0 0H200V83H0z"/>
+        <path id="prefix__f" d="M0 0H200V83H0z"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd" transform="translate(4 2)">
+        <use fill="#000" filter="url(#prefix__a)" xlink:href="#prefix__b"/>
+        <use fill="#4AB2B3" xlink:href="#prefix__b"/>
+        <text fill="#FFF" font-family="PingFangTC-Medium, PingFang TC" font-size="20" font-weight="400" letter-spacing="1.429">
+            <tspan x="42" y="49">自我人誌學</tspan>
+        </text>
+        <g transform="translate(300)">
+            <use fill="#000" filter="url(#prefix__c)" xlink:href="#prefix__d"/>
+            <use fill="#4AB2B3" xlink:href="#prefix__d"/>
+            <text fill="#FFF" font-family="PingFangTC-Medium, PingFang TC" font-size="20" font-weight="400" letter-spacing="1.429">
+                <tspan x="36" y="49">探索道具設計</tspan>
+            </text>
+        </g>
+        <g transform="translate(600)">
+            <use fill="#000" filter="url(#prefix__e)" xlink:href="#prefix__f"/>
+            <use fill="#4AB2B3" xlink:href="#prefix__f"/>
+            <text fill="#FFF" font-family="PingFangTC-Medium, PingFang TC" font-size="20" font-weight="400" letter-spacing="1.429">
+                <tspan x="36" y="49">記錄情境活動</tspan>
+            </text>
+        </g>
+        <text fill="#225795" font-family="PingFangTC-Medium, PingFang TC" font-size="14" font-weight="400" letter-spacing="2.333">
+            <tspan x="51" y="113">組內初探紀錄</tspan>
+        </text>
+        <text fill="#225795" font-family="PingFangTC-Medium, PingFang TC" font-size="14" font-weight="400" letter-spacing="2.333">
+            <tspan x="335" y="113">透過標籤連結檔案</tspan>
+        </text>
+        <text fill="#225795" font-family="PingFangTC-Medium, PingFang TC" font-size="14" font-weight="400" letter-spacing="2.333">
+            <tspan x="594" y="113">透過工人智慧進行記錄工作坊</tspan>
+        </text>
+        <path fill="#225795" fill-rule="nonzero" d="M269.129 33.5l19 9.5-19 9.5-.001-8h-60.5c-.828 0-1.5-.672-1.5-1.5 0-.78.596-1.42 1.356-1.493l.145-.007h60.499v-8zM571.129 33.5l19 9.5-19 9.5-.001-8h-60.5c-.828 0-1.5-.672-1.5-1.5 0-.78.596-1.42 1.356-1.493l.145-.007h60.499v-8z"/>
+    </g>
+</svg>

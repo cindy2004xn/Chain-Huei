@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="380" height="191" viewBox="0 0 380 191">
+    <g fill="none" fill-rule="evenodd">
+        <g fill-rule="nonzero">
+            <path fill="#1C8390" d="M190.254 82L190.247 82.007 0.418 82.007 11.163 97.493 0.418 112.978 0 112.978 18.166 113 80.913 113 190.254 112.978 201 97.493z"/>
+            <path fill="#4BAAAB" d="M284.5 0C231.757 0 189 42.757 189 95.5s42.757 95.5 95.5 95.5S380 148.243 380 95.5c0-25.328-10.062-49.619-27.971-67.529C334.119 10.061 309.829 0 284.5 0zm0 158.603c-34.85 0-63.103-28.252-63.103-63.103 0-34.85 28.252-63.103 63.103-63.103 34.85 0 63.103 28.252 63.103 63.103-.004 34.85-28.254 63.099-63.103 63.103z"/>
+            <path fill="#8BC4C6" d="M347.456 101c-3.128 32.58-30.37 57.444-62.941 57.444S224.7 133.581 221.574 101H189c3.239 50.613 45.032 90 95.5 90s92.261-39.387 95.5-90h-32.544z"/>
+            <path fill="#4BAAAB" d="M363.496 112L380 101 347 101z"/>
+            <path fill="#8BC4C6" d="M205.504 90L189 101 222 101z"/>
+        </g>
+        <text fill="#FFF" font-family="SFCompactDisplay-Medium, SF Compact Display" font-size="14" font-weight="400">
+            <tspan x="41" y="102">Semantic encoding</tspan>
+        </text>
+        <text fill="#FFF" font-family="SFCompactDisplay-Medium, SF Compact Display" font-size="14" font-weight="400">
+            <tspan x="267" y="177">Recall</tspan>
+        </text>
+        <text fill="#FFF" font-family="SFCompactDisplay-Medium, SF Compact Display" font-size="14" font-weight="400">
+            <tspan x="262" y="23">Storage</tspan>
+        </text>
+    </g>
+</svg>

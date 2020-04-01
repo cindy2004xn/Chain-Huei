@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="975" height="816" viewBox="0 0 975 816">
+    <g fill="none" fill-rule="evenodd">
+        <path fill="#225795" stroke="#225795" d="M0 185H150V280H0z" transform="translate(1 2)"/>
+        <text fill="#FFF" font-family="PingFangTC-Semibold, PingFang TC" font-size="18" font-weight="500" transform="translate(1 2)">
+            <tspan x="28" y="240">標籤心智圖</tspan>
+        </text>
+        <text fill="#225795" font-family="PingFangTC-Semibold, PingFang TC" font-size="18" font-weight="500" transform="translate(1 2)">
+            <tspan x="240" y="79"> 通知設定</tspan>
+        </text>
+        <text fill="#225795" font-family="PingFangTC-Semibold, PingFang TC" font-size="18" font-weight="500" transform="translate(1 2)">
+            <tspan x="446" y="79">複習模式</tspan>
+        </text>
+        <text fill="#225795" font-family="PingFangTC-Semibold, PingFang TC" font-size="18" font-weight="500" transform="translate(1 2)">
+            <tspan x="243" y="192">新增標籤</tspan>
+        </text>
+        <text fill="#225795" font-family="PingFangTC-Semibold, PingFang TC" font-size="18" font-weight="500" transform="translate(1 2)">
+            <tspan x="449" y="192">選擇記錄</tspan>
+        </text>
+        <text fill="#225795" font-family="PingFangTC-Semibold, PingFang TC" font-size="18" font-weight="500" transform="translate(1 2)">
+            <tspan x="664.5" y="178">將記錄</tspan> <tspan x="655.5" y="203">加上標籤</tspan>
+        </text>
+        <text fill="#225795" font-family="PingFangTC-Semibold, PingFang TC" font-size="18" font-weight="500" transform="translate(1 2)">
+            <tspan x="860" y="305">編輯資訊</tspan>
+        </text>
+        <text fill="#225795" font-family="PingFangTC-Semibold, PingFang TC" font-size="20" font-weight="500" transform="translate(1 2)">
+            <tspan x="254" y="305">標籤</tspan>
+        </text>
+        <text fill="#225795" font-family="PingFangTC-Semibold, PingFang TC" font-size="18" font-weight="500" transform="translate(1 2)">
+            <tspan x="441" y="291">附有標籤的</tspan> <tspan x="450" y="316">記錄清單</tspan>
+        </text>
+        <text fill="#225795" font-family="PingFangTC-Semibold, PingFang TC" font-size="18" font-weight="500" transform="translate(1 2)">
+            <tspan x="664.5" y="291">紀錄的</tspan> <tspan x="655.5" y="316">詳細資訊</tspan>
+        </text>
+        <text fill="#225795" font-family="PingFangTC-Semibold, PingFang TC" font-size="18" font-weight="500" transform="translate(1 2)">
+            <tspan x="860" y="386">打開記錄</tspan>
+        </text>
+        <text fill="#225795" font-family="PingFangTC-Semibold, PingFang TC" font-size="20" font-weight="500" transform="translate(1 2)">
+            <tspan x="240" y="432">搜尋標籤</tspan>
+        </text>
+        <text fill="#225795" font-family="PingFangTC-Semibold, PingFang TC" font-size="18" font-weight="500" transform="translate(1 2)">
+            <tspan x="243" y="627">編輯標籤</tspan>
+        </text>
+        <text fill="#225795" font-family="PingFangTC-Semibold, PingFang TC" font-size="18" font-weight="500" transform="translate(1 2)">
+            <tspan x="243" y="770">編輯標籤</tspan>
+        </text>
+        <text fill="#225795" font-family="PingFangTC-Semibold, PingFang TC" font-size="18" font-weight="500" transform="translate(1 2)">
+            <tspan x="449" y="627">編輯標籤</tspan>
+        </text>
+        <path stroke="#225795" stroke-width="4" d="M205 39H355V104H205zM411 39H561V104H411zM205 152H355V217H205zM411 152H561V217H411zM617 152H767V217H617zM822 266H972V331H822zM205 266H355V331H205zM411 266H561V331H411zM617 266H767V331H617zM822 347H972V412H822zM205 393H355V458H205zM205 573H355V668H205zM205 716H355V811H205zM411 573H561V668H411z" transform="translate(1 2)"/>
+        <path fill="#225795" d="M0 575H150V670H0z" transform="translate(1 2)"/>
+        <path fill="#225795" stroke="#225795" d="M0 718H150V813H0z" transform="translate(1 2)"/>
+        <text fill="#FFF" font-family="PingFangTC-Semibold, PingFang TC" font-size="18" font-weight="500" transform="translate(1 2)">
+            <tspan x="47.5" y="615">加標籤</tspan> <tspan x="38.5" y="640">提醒通知</tspan>
+        </text>
+        <text fill="#FFF" font-family="PingFangTC-Semibold, PingFang TC" font-size="18" font-weight="500" transform="translate(1 2)">
+            <tspan x="19" y="772">複習提醒通知</tspan>
+        </text>
+        <path stroke="#225795" stroke-width="4" d="M355 622.5L411 622.5M150 765.5L206 765.5M150 622.5L206 622.5M355 78.5L411 78.5M355 298.5L411 298.5M355 186.5L411 186.5M561 184.5L617 184.5M561 299.5L617 299.5M766 304.5L822 304.5M178 78.467V425h28M176.543 78.467H206m-56 154.118h28m0-45.768h28m-28 113.02h28M692 331L692 380 823 380" transform="translate(1 2)"/>
+        <path stroke="#225795" stroke-dasharray="6" stroke-width="4" d="M355 425h128v-94M75 185V0h759v185h-66.931" transform="translate(1 2)"/>
+    </g>
+</svg>

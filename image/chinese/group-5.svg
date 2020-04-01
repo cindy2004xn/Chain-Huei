@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="33" height="33" viewBox="0 0 33 33">
+    <g fill="none" fill-rule="evenodd">
+        <circle cx="16.5" cy="16.5" r="16.5" fill="#225795"/>
+        <text fill="#FFF" font-family="IBMPlexMono-Medium, IBM Plex Mono Medium" font-size="18">
+            <tspan x="11" y="23">3</tspan>
+        </text>
+    </g>
+</svg>

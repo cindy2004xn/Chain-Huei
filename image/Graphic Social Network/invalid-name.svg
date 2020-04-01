@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="308" viewBox="0 0 760 308">
+    <g fill="none" fill-rule="evenodd">
+        <path fill="#FAE8B5" d="M0 0H360V92H0z"/>
+        <text fill="#225795" font-family="PingFangTC-Medium, PingFang TC" font-size="20" font-weight="400" letter-spacing="1.429">
+            <tspan x="137" y="31">科技影響</tspan>
+        </text>
+        <text fill="#225795" font-family="PingFangTC-Medium, PingFang TC" font-size="14" font-weight="400" letter-spacing="2.333">
+            <tspan x="29.502" y="57">以科學為基礎的技術更新，導致 人的行為</tspan> <tspan x="33.821" y="77">產生改，例: Facebook、手機平台⋯⋯</tspan>
+        </text>
+        <g>
+            <path fill="#7CE2F2" d="M0 0H360V92H0z" transform="translate(400)"/>
+            <text fill="#225795" font-family="PingFangTC-Medium, PingFang TC" font-size="20" font-weight="400" letter-spacing="1.429" transform="translate(400)">
+                <tspan x="148" y="31">隱私度</tspan>
+            </text>
+            <text fill="#225795" font-family="PingFangTC-Medium, PingFang TC" font-size="14" font-weight="400" letter-spacing="2.333" transform="translate(400)">
+                <tspan x="29.502" y="57">有意識到自己被人觀看，並採取 相對應的</tspan> <tspan x="54.002" y="77">方法控制自己被他人觀 看到的內容</tspan>
+            </text>
+        </g>
+        <g>
+            <path fill="#B8DB92" d="M0 0H360V92H0z" transform="translate(0 108)"/>
+            <text fill="#225795" font-family="PingFangTC-Medium, PingFang TC" font-size="20" font-weight="400" letter-spacing="1.429" transform="translate(0 108)">
+                <tspan x="137" y="41">現實生活</tspan>
+            </text>
+            <text fill="#225795" font-family="PingFangTC-Medium, PingFang TC" font-size="14" font-weight="400" letter-spacing="2.333" transform="translate(0 108)">
+                <tspan x="98.333" y="67">不屬於線上社群的活動</tspan>
+            </text>
+        </g>
+        <g>
+            <path fill="#FDCB65" d="M0 0H360V92H0z" transform="translate(400 108)"/>
+            <text fill="#225795" font-family="PingFangTC-Medium, PingFang TC" font-size="20" font-weight="400" letter-spacing="1.429" transform="translate(400 108)">
+                <tspan x="138" y="37">形象塑造</tspan>
+            </text>
+            <text fill="#225795" font-family="PingFangTC-Medium, PingFang TC" font-size="14" font-weight="400" letter-spacing="2.333" transform="translate(400 108)">
+                <tspan x="83" y="63">一個用以概略了解人的樣貌</tspan>
+            </text>
+        </g>
+        <g>
+            <path fill="#FD9FA9" d="M0 0H360V92H0z" transform="translate(0 216)"/>
+            <text fill="#225795" font-family="PingFangTC-Medium, PingFang TC" font-size="20" font-weight="400" letter-spacing="1.429" transform="translate(0 216)">
+                <tspan x="137" y="31">社交連結</tspan>
+            </text>
+            <text fill="#225795" font-family="PingFangTC-Medium, PingFang TC" font-size="14" font-weight="400" letter-spacing="2.333" transform="translate(0 216)">
+                <tspan x="14.767" y="57">人主動利用各種手段(例:觀看或傳達訊息)，接</tspan> <tspan x="24.833" y="77">觸到他人、產生互相依存聯繫的關係的想法</tspan>
+            </text>
+        </g>
+        <g>
+            <path fill="#CFC2D9" d="M0 0H360V92H0z" transform="translate(400 216)"/>
+            <text fill="#225795" font-family="PingFangTC-Medium, PingFang TC" font-size="20" font-weight="400" letter-spacing="1.429" transform="translate(400 216)">
+                <tspan x="137" y="31">自我抒發</tspan>
+            </text>
+            <text fill="#225795" font-family="PingFangTC-Medium, PingFang TC" font-size="14" font-weight="400" letter-spacing="2.333" transform="translate(400 216)">
+                <tspan x="91.765" y="57">對著窗口(例:熟識的人或</tspan> <tspan x="99.505" y="77">日記) 表達情感的行為</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

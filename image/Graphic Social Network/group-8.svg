@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="568" height="168" viewBox="0 0 568 168">
+    <defs>
+        <filter id="prefix__a" width="108.8%" height="108.8%" x="-4.4%" y="-3.1%" filterUnits="objectBoundingBox">
+            <feOffset dy="2" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="2"/>
+            <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.295236014 0"/>
+        </filter>
+        <filter id="prefix__c" width="108.8%" height="108.8%" x="-4.4%" y="-3.1%" filterUnits="objectBoundingBox">
+            <feOffset dy="2" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="2"/>
+            <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.295236014 0"/>
+        </filter>
+        <filter id="prefix__e" width="108.8%" height="108.8%" x="-4.4%" y="-3.1%" filterUnits="objectBoundingBox">
+            <feOffset dy="2" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="2"/>
+            <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.295236014 0"/>
+        </filter>
+        <circle id="prefix__b" cx="80" cy="80" r="80"/>
+        <circle id="prefix__d" cx="80" cy="80" r="80"/>
+        <circle id="prefix__f" cx="80" cy="80" r="80"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd" transform="translate(4 2)">
+        <use fill="#000" filter="url(#prefix__a)" xlink:href="#prefix__b"/>
+        <use fill="#FDDC81" xlink:href="#prefix__b"/>
+        <text fill="#225795" font-family="PingFangTC-Medium, PingFang TC" font-size="20" font-weight="400" letter-spacing="1.429">
+            <tspan x="37" y="87">偏好圖像</tspan>
+        </text>
+        <g transform="translate(200)">
+            <use fill="#000" filter="url(#prefix__c)" xlink:href="#prefix__d"/>
+            <use fill="#FDDC81" xlink:href="#prefix__d"/>
+            <text fill="#225795" font-family="PingFangTC-Medium, PingFang TC" font-size="20" font-weight="400" letter-spacing="1.429">
+                <tspan x="47.857" y="73">非線性</tspan> <tspan x="37.143" y="101">執行方式</tspan>
+            </text>
+        </g>
+        <g transform="translate(400)">
+            <use fill="#000" filter="url(#prefix__e)" xlink:href="#prefix__f"/>
+            <use fill="#FDDC81" xlink:href="#prefix__f"/>
+            <text fill="#225795" font-family="PingFangTC-Medium, PingFang TC" font-size="20" font-weight="400" letter-spacing="1.429">
+                <tspan x="58.571" y="73">混合</tspan> <tspan x="26.429" y="101">工作與玩樂</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

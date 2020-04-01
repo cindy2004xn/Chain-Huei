@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="563" height="118" viewBox="0 0 563 118">
+    <g fill="none" fill-rule="evenodd">
+        <path fill="#225795" fill-rule="nonzero" d="M537 77l14 7-14 7-.001-6H10v-2h526.999l.001-6z" transform="translate(-1 1)"/>
+        <text fill="#225795" font-family="SFCompactDisplay-Medium, SF Compact Display" font-size="14" font-weight="400" transform="translate(-1 1)">
+            <tspan x="185" y="114">( human / technology ) -&gt; world</tspan>
+        </text>
+        <text fill="#225795" font-family="SFCompactDisplay-Bold, SF Compact Display" font-size="14" font-weight="bold" transform="translate(-1 1)">
+            <tspan x="51" y="23">Augmentation</tspan>
+        </text>
+        <text fill="#225795" font-family="SFCompactDisplay-Bold, SF Compact Display" font-size="14" font-weight="bold" transform="translate(-1 1)">
+            <tspan x="240" y="23">Jack In</tspan>
+        </text>
+        <text fill="#225795" font-family="SFCompactDisplay-Bold, SF Compact Display" font-size="14" font-weight="bold" transform="translate(-1 1)">
+            <tspan x="423" y="23">Fusion</tspan>
+        </text>
+        <text fill="#225795" font-family="SFCompactDisplay-Medium, SF Compact Display" font-size="14" font-weight="400" transform="translate(-1 1)">
+            <tspan x="0" y="114">low</tspan>
+        </text>
+        <text fill="#225795" font-family="SFCompactDisplay-Medium, SF Compact Display" font-size="14" font-weight="400" transform="translate(-1 1)">
+            <tspan x="537" y="114">high</tspan>
+        </text>
+        <g>
+            <path fill="#225795" d="M0 0H91V29H0z" transform="translate(-1 1) translate(51 35)"/>
+            <text fill="#FFF" font-family="SFCompactDisplay-Medium, SF Compact Display" font-size="14" font-weight="400" transform="translate(-1 1) translate(51 35)">
+                <tspan x="10" y="20">Mouth Face</tspan>
+            </text>
+        </g>
+        <g>
+            <path fill="#225795" d="M0 0H91V29H0z" transform="translate(-1 1) translate(172 35)"/>
+            <text fill="#FFF" font-family="SFCompactDisplay-Medium, SF Compact Display" font-size="14" font-weight="400" transform="translate(-1 1) translate(172 35)">
+                <tspan x="12" y="20">Emoji Face</tspan>
+            </text>
+        </g>
+        <g>
+            <path fill="#225795" d="M0 0H91V29H0z" transform="translate(-1 1) translate(264 35)"/>
+            <text fill="#FFF" font-family="SFCompactDisplay-Medium, SF Compact Display" font-size="14" font-weight="400" transform="translate(-1 1) translate(264 35)">
+                <tspan x="18" y="20">Full Face</tspan>
+            </text>
+        </g>
+        <g>
+            <path fill="#225795" d="M0 0H91V29H0z" transform="translate(-1 1) translate(399 35)"/>
+            <text fill="#FFF" font-family="SFCompactDisplay-Medium, SF Compact Display" font-size="14" font-weight="400" transform="translate(-1 1) translate(399 35)">
+                <tspan x="15" y="20">Eyes Face</tspan>
+            </text>
+        </g>
+        <path stroke="#225795" stroke-dasharray="3" stroke-width="2" d="M42 0h109v93H42V0zM389 0h109v93H389V0zM162 0h202v93H162V0z" transform="translate(-1 1)"/>
+        <path stroke="#225795" stroke-width="2" d="M97 64L97 84M218 64L218 84M310 64L310 84M440 64L440 84" transform="translate(-1 1)"/>
+    </g>
+</svg>

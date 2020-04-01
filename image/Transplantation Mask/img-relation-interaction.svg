@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="398" height="102" viewBox="0 0 398 102">
+    <g fill="none" fill-rule="evenodd">
+        <g fill-rule="nonzero" stroke="#225795" stroke-width="3" transform="translate(0 2) translate(58)">
+            <circle cx="15" cy="10" r="10"/>
+            <path d="M29.99 51.73l-2.283-22.313c-.238-2.51-2.392-4.428-4.963-4.417H7.27c-2.577-.019-4.74 1.9-4.978 4.417L.01 51.73c-.063.691.17 1.377.644 1.893.467.515 1.135.81 1.838.811h2.742l2.053 20.058c.215 2.543 2.377 4.501 4.978 4.508h5.47c2.606.008 4.777-1.958 4.978-4.508l2.053-20.103h2.742c.706-.003 1.38-.297 1.853-.811.465-.503.692-1.173.628-1.848z"/>
+        </g>
+        <g fill="#225795" fill-rule="nonzero" transform="translate(0 2) translate(199)">
+            <circle cx="15" cy="10" r="10"/>
+            <path d="M29.99 51.73l-2.283-22.313c-.238-2.51-2.392-4.428-4.963-4.417H7.27c-2.577-.019-4.74 1.9-4.978 4.417L.01 51.73c-.063.691.17 1.377.644 1.893.467.515 1.135.81 1.838.811h2.742l2.053 20.058c.215 2.543 2.377 4.501 4.978 4.508h5.47c2.606.008 4.777-1.958 4.978-4.508l2.053-20.103h2.742c.706-.003 1.38-.297 1.853-.811.465-.503.692-1.173.628-1.848z"/>
+        </g>
+        <g fill="#225795" fill-rule="nonzero" transform="translate(0 2) translate(285)">
+            <circle cx="15" cy="10" r="10"/>
+            <path d="M29.99 51.73l-2.283-22.313c-.238-2.51-2.392-4.428-4.963-4.417H7.27c-2.577-.019-4.74 1.9-4.978 4.417L.01 51.73c-.063.691.17 1.377.644 1.893.467.515 1.135.81 1.838.811h2.742l2.053 20.058c.215 2.543 2.377 4.501 4.978 4.508h5.47c2.606.008 4.777-1.958 4.978-4.508l2.053-20.103h2.742c.706-.003 1.38-.297 1.853-.811.465-.503.692-1.173.628-1.848z"/>
+        </g>
+        <g fill="#225795" fill-rule="nonzero" transform="translate(0 2) translate(363)">
+            <circle cx="15" cy="10" r="10"/>
+            <path d="M29.99 51.73l-2.283-22.313c-.238-2.51-2.392-4.428-4.963-4.417H7.27c-2.577-.019-4.74 1.9-4.978 4.417L.01 51.73c-.063.691.17 1.377.644 1.893.467.515 1.135.81 1.838.811h2.742l2.053 20.058c.215 2.543 2.377 4.501 4.978 4.508h5.47c2.606.008 4.777-1.958 4.978-4.508l2.053-20.103h2.742c.706-.003 1.38-.297 1.853-.811.465-.503.692-1.173.628-1.848z"/>
+        </g>
+        <text fill="#225795" font-family="SFCompactDisplay-Medium, SF Compact Display" font-size="14" font-weight="400" transform="translate(0 2)">
+            <tspan x="281" y="97">friend</tspan>
+        </text>
+        <text fill="#225795" font-family="SFCompactDisplay-Medium, SF Compact Display" font-size="14" font-weight="400" transform="translate(0 2)">
+            <tspan x="359" y="97">family</tspan>
+        </text>
+        <text fill="#225795" font-family="SFCompactDisplay-Medium, SF Compact Display" font-size="14" font-weight="400" transform="translate(0 2)">
+            <tspan x="0" y="97">Surrogate/Reomt user</tspan>
+        </text>
+        <text fill="#225795" font-family="SFCompactDisplay-Medium, SF Compact Display" font-size="14" font-weight="400" transform="translate(0 2)">
+            <tspan x="188" y="97">stranger</tspan>
+        </text>
+        <path fill="#225795" fill-rule="nonzero" d="M162.5 32.5l14 7-14 7v-6h-60c-.552 0-1-.448-1-1 0-.513.386-.936.883-.993l.117-.007h60v-6z" transform="translate(0 2)"/>
+    </g>
+</svg>

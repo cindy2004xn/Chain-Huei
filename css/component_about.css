@@ -1,0 +1,269 @@
+.wrapper{
+	overflow: hidden;
+}
+
+/* ------section------- */
+/* ------about------- */
+.about{
+	padding-top: 20vh;
+	padding-bottom: 20vh;
+}
+.about_line{
+	width: 30px;
+	height: 8px;
+	background-color: #225795;
+	margin: 10px 0px;
+}
+.detail{
+	font-style: italic;
+}
+.name_imagebox{
+	overflow: hidden;
+	width: 90%;
+	margin-top: 30px;
+	margin:0px auto;
+}
+.name_image-inner{
+	width: 100%;
+	padding-top: calc(100% * 4 / 3);
+	height: 0;
+	margin-top: 30px;
+	position: relative;;
+}
+.name_imagebox .name_image{
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	top: 0;
+	left: 0;
+	background-image: url('../image/name.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+}
+.name-block {
+	width: 100%;
+	height: 20px;
+	margin: 10px 50px;
+}
+.nameCN_content{
+	color: #225795;
+	font-weight: 400;
+	font-size: 10px;
+	letter-spacing: 5px;
+	text-align: center;
+	line-height: 20px;
+	display: inline-block;
+}
+.nameUS_content{
+	color: #225795;
+	font-weight: 400;
+	font-size: 10px;
+	line-height: 20px;
+	display: inline-block;
+}
+.portfolio{
+	margin-top: 50px;
+}
+.portfolio_US{
+	margin-top: 40px;
+}
+.icon_next_imagebox{
+	overflow: hidden;
+	width: 2%;
+	margin: 20px auto;
+}
+.icon_next_image-inner{
+	width: 100%;
+	padding-top: 100%;
+	height: 0;
+	position: relative;;
+}
+.icon_next_imagebox .icon_next_image{
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	top: 0;
+	left: 0;
+	background-image: url('../image/group-2.svg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+}
+.cv-download{
+	margin-top: 50px;
+	width: 10%;
+	background-color: #225795;
+	padding: 0px 10px;
+}
+.cv-download h4{
+	color: #fff;
+	text-align: center;
+	font-weight: 400;
+	font-size: 12px;
+}
+@media (max-width: 768px){
+	.portfolio{
+		margin-top: 20px;
+	}
+		.cv-download{
+		margin-top: 30px;
+		width: 20%;
+		background-color: #225795;
+		padding: 0px 10px;
+	}
+	.icon_next_imagebox{
+		overflow: hidden;
+		width: 10%;
+		margin: 30px auto;
+	}
+}
+
+/* ------experience------- */
+.experience{
+	padding-top: 80px;
+	padding-bottom: 80px;
+	background-color: #225795;
+}
+.bachelor{
+	margin-bottom: 10px;
+}
+.newtype, .ling{
+	margin-bottom: 20px;
+}
+.education-group{
+	margin-bottom: 50px;
+}
+.text-title{
+	color: #fff;
+}
+.text-small{
+	color: #fff;
+	font-style: italic;
+	font-family: 'IBM Plex Sans Condensed';
+	font-weight: 100; 
+}
+.text-years{
+	color: #fff;
+	font-style: italic;
+	font-size: xx-small;
+	font-weight: 100;
+	font-family: 'IBM Plex Sans Condensed';
+}
+.years-lines-inner{
+	display: inline-block;
+}
+.years-line{
+	width: 50px;
+	height: 1px;
+	background-color: #fff;
+}
+.education-block{
+	width: 100%;
+	height: 100px;
+	background-color: #7D6260;
+	box-shadow: 0 10px 20px rgba(0,0,0,0.1);
+}
+@media (max-width: 768px){
+	.education-block{
+		width: 95%;
+		height: 80px;
+		margin-bottom: 20px;
+		margin-left: 10px;
+	}
+	.education{
+		line-height: 80px;
+	}
+}
+
+.education{
+	color: #fff;
+	font-size: 28px;
+	text-align: center;
+	line-height: 100px;
+}
+.employment-group{
+	margin-bottom: 50px;
+}
+.employment-content{
+	color: #fff;
+	margin: 0px -5px;
+}
+.employment-block{
+	width: 100%;
+	height: 400px;
+	background-color: #7D6260;
+	box-shadow: 0 10px 20px rgba(0,0,0,0.1);
+}
+@media (max-width: 768px){
+	.employment-block{
+		width: 95%;
+		height: 120px;
+		margin-bottom: 20px;
+		margin-left: 10px;
+	}
+	.employment{
+		display: block;
+		padding:7px 0px !important;
+	}
+}
+.employment{
+	color: #fff;
+	font-size: 28px;
+	text-align: center;
+	line-height: 50px;
+	padding: 150px 0px;
+}
+.publications-block{
+	width: 100%;
+	height: 80px;
+	background-color: #7D6260;
+	box-shadow: 0 10px 20px rgba(0,0,0,0.1);
+	margin-bottom: 20px;
+}
+@media (max-width: 768px){
+	.publications-block{
+		width: 100%;
+		margin-bottom: 20px;
+	}
+}
+.publications{
+	color: #fff;
+	font-size: 28px;
+	text-align: center;
+	line-height: 80px;
+}
+.text-plaec{
+	color: #fff;
+	font-style: italic;
+	line-height: 40px;
+	font-family: 'IBM Plex Sans Condensed';
+	font-weight: 100; 
+}
+.taichi2017{
+	margin-bottom: 40px;
+}
+/*footer*/
+.contact{
+	padding: 30px 0px;
+}
+.contact-list{
+	float: right;
+	margin-right: 30px;
+}
+.copyright{
+	float: left;
+	margin-top: 45px;
+}
+.text-contact{
+	font-size: 18px;
+	color: #225795;
+	margin: 10px 0px;
+	font-weight: 900;
+	font-family: 'IBM Plex Mono'
+}
+.cpoyright-text{
+	font-size: smaller;
+	font-weight: 100;
+	font-family: 'Helvetica';
+}

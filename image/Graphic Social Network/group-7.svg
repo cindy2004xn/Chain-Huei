@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="808" height="154" viewBox="0 0 808 154">
+    <defs>
+        <filter id="prefix__a" width="107%" height="116.9%" x="-3.5%" y="-6%" filterUnits="objectBoundingBox">
+            <feOffset dy="2" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="2"/>
+            <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.295236014 0"/>
+        </filter>
+        <filter id="prefix__c" width="107%" height="116.9%" x="-3.5%" y="-6%" filterUnits="objectBoundingBox">
+            <feOffset dy="2" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="2"/>
+            <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.295236014 0"/>
+        </filter>
+        <filter id="prefix__e" width="107%" height="116.9%" x="-3.5%" y="-6%" filterUnits="objectBoundingBox">
+            <feOffset dy="2" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="2"/>
+            <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.295236014 0"/>
+        </filter>
+        <path id="prefix__b" d="M0 0H200V83H0z"/>
+        <path id="prefix__d" d="M0 0H200V83H0z"/>
+        <path id="prefix__f" d="M0 0H200V83H0z"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd" transform="translate(4 2)">
+        <use fill="#000" filter="url(#prefix__a)" xlink:href="#prefix__b"/>
+        <use fill="#FDDC81" xlink:href="#prefix__b"/>
+        <text fill="#225795" font-family="PingFangTC-Medium, PingFang TC" font-size="20" font-weight="400" letter-spacing="1.429">
+            <tspan x="42" y="49"> 自我人誌學</tspan>
+        </text>
+        <text fill="#225795" font-family="PingFangTC-Medium, PingFang TC" font-size="14" font-weight="400" letter-spacing="2.333">
+            <tspan x="0" y="110">初探年輕世代網路社交現象</tspan>
+        </text>
+        <g transform="translate(300.014)">
+            <use fill="#000" filter="url(#prefix__c)" xlink:href="#prefix__d"/>
+            <use fill="#FDDC81" xlink:href="#prefix__d"/>
+            <text fill="#225795" font-family="PingFangTC-Medium, PingFang TC" font-size="14" font-weight="400" letter-spacing="2.333">
+                <tspan x="0" y="110">・社群平台改變了人的觀看行為</tspan> <tspan x="0" y="130">・不同於以往的社交方式</tspan> <tspan x="0" y="150">・個人風格經營</tspan>
+            </text>
+            <text fill="#225795" font-family="PingFangTC-Medium, PingFang TC" font-size="20" font-weight="400" letter-spacing="1.429">
+                <tspan x="36.214" y="49">提出研究假設</tspan>
+            </text>
+        </g>
+        <g transform="translate(600.014)">
+            <use fill="#000" filter="url(#prefix__e)" xlink:href="#prefix__f"/>
+            <use fill="#FDDC81" xlink:href="#prefix__f"/>
+            <text fill="#225795" font-family="PingFangTC-Medium, PingFang TC" font-size="14" font-weight="400" letter-spacing="2.333">
+                <tspan x="0" y="110">・發放問卷招募受測者</tspan> <tspan x="0" y="130">・篩選受測者進行訪談</tspan>
+            </text>
+            <text fill="#225795" font-family="PingFangTC-Medium, PingFang TC" font-size="20" font-weight="400" letter-spacing="1.429">
+                <tspan x="36" y="49">半結構式訪談</tspan>
+            </text>
+        </g>
+        <path fill="#225795" fill-rule="nonzero" d="M261.915 32l19 9.5-19 9.5-.001-8H212c-.828 0-1.5-.672-1.5-1.5 0-.78.595-1.42 1.356-1.493L212 40h49.914v-8zM565.928 32.5l19 9.5-19 9.5v-8h-49.914c-.829 0-1.5-.672-1.5-1.5 0-.78.595-1.42 1.355-1.493l.145-.007h49.914v-8z"/>
+    </g>
+</svg>

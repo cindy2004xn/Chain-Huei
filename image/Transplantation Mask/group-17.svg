@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="540" height="140" viewBox="0 0 540 140">
+    <g fill="none" fill-rule="evenodd">
+        <rect width="540" height="140" fill="#225795" rx="8"/>
+        <g>
+            <path fill="#FFF" d="M16.5 0L32.192 11.401 26.198 29.849 6.802 29.849 0.808 11.401z" transform="translate(39 28)"/>
+            <text fill="#225795" font-family="IBMPlexMono-Medium, IBM Plex Mono Medium" font-size="18" transform="translate(39 28)">
+                <tspan x="11" y="23">1</tspan>
+            </text>
+            <g>
+                <path fill="#FFF" d="M16.5 0L32.192 11.401 26.198 29.849 6.802 29.849 0.808 11.401z" transform="translate(39 28) translate(0 54)"/>
+                <text fill="#225795" font-family="IBMPlexMono-Medium, IBM Plex Mono Medium" font-size="18" transform="translate(39 28) translate(0 54)">
+                    <tspan x="11" y="23">2</tspan>
+                </text>
+            </g>
+            <text fill="#FFF" font-family="IBMPlexMono-Medium, IBM Plex Mono Medium" font-size="18" transform="translate(39 28)">
+                <tspan x="61" y="22">Mask Design</tspan> <tspan x="179.8" y="22" font-family="PingFangTC-Medium, PingFang TC" font-weight="400">：</tspan> <tspan x="197.8" y="22" font-family="PingFangTC-Medium, PingFang TC" font-weight="400" letter-spacing="1">移植面具製作</tspan>
+            </text>
+            <text fill="#FFF" font-family="IBMPlexMono-Medium, IBM Plex Mono Medium" font-size="18" transform="translate(39 28)">
+                <tspan x="61" y="76">Situation Settings</tspan> <tspan x="255.4" y="76" font-family="PingFangTC-Medium, PingFang TC" font-weight="400">：</tspan> <tspan x="273.4" y="76" font-family="PingFangTC-Medium, PingFang TC" font-weight="400" letter-spacing="1">了解移植面具經驗品質</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="364" height="364" viewBox="0 0 364 364">
+    <g fill="none" fill-rule="evenodd">
+        <text fill="#225795" font-family="PingFangTC-Semibold, PingFang TC" font-size="14" font-weight="500" transform="translate(2 -3)">
+            <tspan x="151" y="15">時間</tspan>
+        </text>
+        <text fill="#225795" font-family="PingFangTC-Semibold, PingFang TC" font-size="16" font-weight="500" transform="translate(2 -3)">
+            <tspan x="60" y="134">常常忘記</tspan> <tspan x="60" y="156">未發生過</tspan>
+        </text>
+        <text fill="#225795" font-family="PingFangTC-Semibold, PingFang TC" font-size="16" font-weight="500" transform="translate(2 -3)">
+            <tspan x="205" y="139">記很清楚</tspan> <tspan x="205" y="161">未發生過</tspan>
+        </text>
+        <text fill="#225795" font-family="PingFangTC-Semibold, PingFang TC" font-size="16" font-weight="500" transform="translate(2 -3)">
+            <tspan x="205" y="284">記很清楚</tspan> <tspan x="205" y="306">已發生過</tspan>
+        </text>
+        <text fill="#225795" font-family="PingFangTC-Semibold, PingFang TC" font-size="16" font-weight="500" transform="translate(2 -3)">
+            <tspan x="60" y="284">常常忘記</tspan> <tspan x="60" y="306">已發生過</tspan>
+        </text>
+        <text fill="#225795" font-family="PingFangTC-Semibold, PingFang TC" font-size="16" font-weight="500" transform="translate(2 -3)">
+            <tspan x="346" y="143">查</tspan> <tspan x="346" y="165">看</tspan> <tspan x="346" y="187">積</tspan> <tspan x="346" y="209">極</tspan> <tspan x="346" y="231">程</tspan> <tspan x="346" y="253">度</tspan>
+        </text>
+        <path fill="#4AB2B3" fill-opacity=".8" d="M0 34H166V200H0z" transform="translate(2 -3)"/>
+        <text fill="#FFF" font-family="PingFangTC-Semibold, PingFang TC" font-size="20" font-weight="500" transform="translate(2 -3)">
+            <tspan x="42" y="124">執行提醒</tspan>
+        </text>
+        <path fill="#225795" fill-rule="nonzero" d="M165.5 29.661l1.307 2.324 9 16c.407.722.15 1.637-.572 2.043-.68.382-1.53.178-1.966-.45l-.076-.122L167 38.447v326.832c0 .829-.672 1.5-1.5 1.5-.78 0-1.42-.595-1.493-1.355l-.007-.145V38.447l-6.193 11.01c-.382.679-1.215.946-1.913.636l-.13-.065c-.679-.382-.946-1.215-.636-1.913l.065-.13 9-16 1.307-2.324z" transform="translate(2 -3)"/>
+        <path fill="#225795" fill-rule="nonzero" d="M316.606 189.128l.13.065 16 9 2.324 1.307-2.325 1.307-16 9c-.722.407-1.636.15-2.042-.572-.383-.68-.178-1.53.45-1.966l.122-.076L326.273 201H0c-.828 0-1.5-.672-1.5-1.5 0-.78.595-1.42 1.356-1.493L0 198h326.273l-11.008-6.193c-.68-.382-.947-1.215-.637-1.913l.065-.13c.382-.679 1.215-.946 1.913-.636z" transform="translate(2 -3)"/>
+    </g>
+</svg>

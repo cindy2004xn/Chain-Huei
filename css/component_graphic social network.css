@@ -1,0 +1,259 @@
+.wrapper{
+	overflow: hidden;
+}
+.title-block {
+	padding-top: 20vh;
+}
+.btn-back{
+	display: block;
+	margin-bottom: 20px;
+}
+.projectDetail{
+	margin-bottom: 5px;
+}
+.titleName{
+	font-family: 'Helvetica';
+	font-size: 20px;
+}
+.content{
+	margin: 15px 0px;
+}
+.img{
+	display: block;
+}
+.imgBox .img{
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	background-size: cover;
+	background-position: center;
+}
+.imgBox .imgBox-inner-bg{
+	width: 80%;
+	padding-top: calc(80% * 670 / 1440);
+	position: relative;
+}
+@media (max-width: 768px){
+	.imgBox .imgBox-inner-bg{
+		width: 100%;
+		padding-top: calc(100% * 670 / 1440);
+		position: relative;
+	}
+}
+/*background*/
+.background-block{
+	margin-top: 10vh;
+}
+.imgBox .imgBox-inner-background{
+	width: 100%;
+	padding-top: calc(100% * 160 / 560);
+	position: relative;
+}
+/*process*/
+.process-block{
+	margin-top: 10vh;
+}
+.imgBox .imgBox-inner-process{
+	width: 100%;
+	padding-top: calc(100% * 154 / 808);
+	position: relative;
+	margin-top: 20px;
+}
+/*finding*/
+.finding-block{
+	margin-top: 10vh;
+}
+.imgBox .imgBox-inner-finding-1{
+	width: 100%;
+	padding-top: calc(100% * 308 / 760);
+	position: relative;
+	margin-bottom: 40px;
+}
+.imgBox .imgBox-inner-finding-2{
+	width: 80%;
+	padding-top: calc(80% * 354 / 800);
+	position: relative;
+	margin-bottom: 30px;
+}
+@media (max-width: 768px){
+	.imgBox .imgBox-inner-finding-2{
+		width: 100%;
+		padding-top: calc(100% * 354 / 800);
+	}
+}
+/*visualzation*/
+.imgBox .imgBox-inner-visualzation-1{
+	width: 100%;
+	padding-top: calc(100% * 562 / 660);
+	position: relative;
+}
+.visualzation-content-1{
+	margin-left: 35px;
+	font-style: italic;
+}
+.visualzation-block{
+	margin-top: 20vh;
+}
+@media (max-width: 768px){
+	.visualzation-content-1{
+		margin-left: 0px;
+		margin-bottom: 20px;
+	}
+}
+/*2F*/
+.imgBox .imgBox-inner-2F-fb{
+	width: 50%;
+	padding-top: calc(50% * 112 / 60);
+	position: relative;
+}
+.imgBox .imgBox-inner-livingRoom{
+	width: 100%;
+	padding-top: calc(100% * 299 / 560);
+	position: relative;
+}
+.livingRoom-fb{
+	margin-top: 100px;
+}
+.titleName-block-1{
+	margin-bottom: 50px;
+}
+.imgBox .imgBox-inner-2F-ig{
+	width: 50%;
+	padding-top: calc(50% * 112 / 60);
+	position: relative;
+}
+.imgBox .imgBox-inner-office{
+	width: 100%;
+	padding-top: calc(100% * 330 / 560);
+	position: relative;
+}
+.office-ig{
+	margin-top: 100px;
+}
+.imgBox .imgBox-inner-2F-in{
+	width: 50%;
+	padding-top: calc(50% * 112 / 60);
+	position: relative;
+}
+.imgBox .imgBox-inner-bedroom{
+	width: 100%;
+	padding-top: calc(100% * 333 / 556);
+	position: relative;
+}
+.bedroom-in{
+	margin-top: 100px;
+}
+.twoF-ig{
+	margin: 20px 0px;
+}
+@media (max-width: 768px){
+	.twoF-block{
+		margin-top: 10vh;
+	}
+	.livingRoom-fb{
+		margin-top: 10px;
+	}
+	.office-ig{
+		margin: 20px 0px;
+	}
+	.bedroom-in{
+		margin-top: 10px;
+	}
+}
+/*house*/
+.house-block{
+	margin-top: 100px;
+}
+.house-detail{
+	text-align: right;
+	font-style: italic;
+}
+.imgBox .imgBox-inner-house{
+	width: 100%;
+	padding-top: calc(100% * 604 / 1265);
+	position: relative;
+}
+/*road*/
+.imgBox .imgBox-inner-img{
+	width: 100%;
+	padding-top: calc(100% * 587 / 1440);
+	position: relative;
+}
+.road-block{
+	margin-top: 100px;
+}
+.road-detail-1, .road-detail-2, .road-detail-3{
+	font-style: italic;
+}
+/*city*/
+.city-block{
+	margin-top: 100px;
+}
+.imgBox .imgBox-inner-cityimg{
+	width: 100%;
+	padding-top: calc(100% * 608 / 1159);
+	position: relative;
+}
+/*auther*/
+.bg-block{
+	margin-right: 50px;
+	margin-bottom: 100px;
+}
+.auther-text{
+	color: #225795;
+	margin:15px 0px;
+	text-align: right;
+	font-size: smaller;
+}
+.auther-block{
+	margin: 30vh 0px;
+}
+.imgBox .imgBox-inner-btn-next{
+	width: 100%;
+	padding-top: calc(100% * 23 / 203);
+	position: relative;
+}
+.imgBox .imgBox-inner-btn-previous{
+	width: 80%;
+	padding-top: calc(80% * 23 / 268);
+	position: relative;
+}
+@media (max-width: 768px){
+	.imgBox .imgBox-inner-btn-next{
+		width: 80%;
+		padding-top: calc(80% * 23 / 203);
+	}
+}
+/*footer*/
+.bgContainer{
+	background-color: #225795;
+}
+.contact{
+	padding: 30px 0px;
+}
+.contact-list{
+	float: right;
+	margin-right: 30px;
+}
+.copyright{
+	float: left;
+	margin-top: 45px;
+}
+.cpoyright-text{
+	color: #fff;
+}
+.phone{
+	color: #fff;
+}
+.mail{
+	color: #fff;
+}
+.text-contact{
+	font-size: 18px;
+	color: #fff;
+	margin: 5px 0px;
+	font-weight: 900;
+	font-family: 'IBM Plex Mono'
+}
