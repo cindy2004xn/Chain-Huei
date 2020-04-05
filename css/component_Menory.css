@@ -144,6 +144,11 @@
 		width: 80%;
 		padding-top: calc(80% * 23 / 203);
 	}
+	.imgBox .imgBox-inner-btn-previous{
+		width: 80%;
+		padding-top: calc(80% * 23 / 288);
+		position: relative;
+	}
 }
 /*footer*/
 .bgContainer{

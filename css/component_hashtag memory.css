@@ -204,13 +204,18 @@
 }
 .imgBox .imgBox-inner-btn-previous{
 	width: 80%;
-	padding-top: calc(80% * 23 / 268);
+	padding-top: calc(80% * 23 / 278);
 	position: relative;
 }
 @media (max-width: 768px){
 	.imgBox .imgBox-inner-btn-next{
 		width: 80%;
-		padding-top: calc(80% * 23 / 203);
+		padding-top: calc(80% * 23 / 213);
+	}
+	.imgBox .imgBox-inner-btn-previous{
+		width: 80%;
+		padding-top: calc(80% * 23 / 288);
+		position: relative;
 	}
 }
 /*footer*/
