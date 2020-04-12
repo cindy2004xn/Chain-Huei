@@ -89,6 +89,18 @@
 	padding-top: calc(80% * 23 / 268);
 	position: relative;
 }
+.imgBox .imgBox-inner-btn-previous .img:after{
+	content: "";
+	display: block;
+	width: 100%;
+	height: 100%;
+	margin-top: 25px;
+	transition: all 0.5s;
+	text-align: right;
+}
+.imgBox .imgBox-inner-btn-previous .img:hover:after{
+	content: "Yang-Ming Aesthetics";
+}
 @media (max-width: 768px){
 	.imgBox .imgBox-inner-btn-next{
 		width: 80%;

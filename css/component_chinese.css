@@ -154,10 +154,33 @@
 	padding-top: calc(100% * 23 / 203);
 	position: relative;
 }
+.imgBox .imgBox-inner-btn-next .img:after{
+	content: "";
+	display: block;
+	width: 100%;
+	height: 100%;
+	margin-top: 25px;
+	transition: all 0.5s;
+}
+.imgBox .imgBox-inner-btn-next .img:hover:after{
+	content: "Yang-Ming Aesthetics";
+}
 .imgBox .imgBox-inner-btn-previous{
 	width: 80%;
 	padding-top: calc(80% * 23 / 268);
 	position: relative;
+}
+.imgBox .imgBox-inner-btn-previous .img:after{
+	content: "";
+	display: block;
+	width: 100%;
+	height: 100%;
+	margin-top: 25px;
+	transition: all 0.5s;
+	text-align: right;
+}
+.imgBox .imgBox-inner-btn-previous .img:hover:after{
+	content: "#Memory";
 }
 @media (max-width: 768px){
 	.imgBox .imgBox-inner-btn-next{
