@@ -159,6 +159,9 @@
 		border: 1px solid #225795;
 		padding: 10px 10px;
 	}
+	.concept-block{
+		margin-top: 10vh;
+	}
 }
 /*design*/
 .imgBox .imgBox-inner-design-first{
@@ -239,6 +242,9 @@
 		width: 80%;
 		padding-top: calc(80% * 23 / 288);
 		position: relative;
+	}
+	.design-block{
+		margin-bottom: 30px;
 	}
 }
 /*footer*/

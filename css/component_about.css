@@ -49,7 +49,7 @@
 .nameCN_content{
 	color: #225795;
 	font-weight: 400;
-	font-size: 10px;
+	font-size: 12px;
 	letter-spacing: 5px;
 	text-align: center;
 	line-height: 20px;
@@ -89,6 +89,14 @@
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: center;
+}
+@media (max-width: 768px){
+	.icon_next_image-inner{
+		width: 70%;
+		padding-top: 70%;
+		height: 0;
+		position: relative;;
+	}
 }
 .cv-download{
 	margin-top: 50px;
@@ -136,7 +144,7 @@
 	margin-bottom: 10px;
 }
 .newtype, .ling{
-	margin-bottom: 20px;
+	margin-bottom: 30px;
 }
 .education-group{
 	margin-bottom: 50px;
@@ -212,6 +220,12 @@
 	.employment{
 		display: block;
 		padding:7px 0px !important;
+	}
+	.col-lg-6{
+		margin-left: 15px;
+	}
+	.col-lg-5{
+		margin-left: 15px;
 	}
 }
 .employment{
